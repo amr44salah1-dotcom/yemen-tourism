@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126067861643",
+    "project_id": "yemen-tourism-3362e",
+    "storage_bucket": "yemen-tourism-3362e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126067861643:android:56b2b573955d7ca2808c8e",
+        "android_client_info": {
+          "package_name": "com.example.yemen_tourism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCz8TdMaaYIX-QPu2579P6DXbcdn-0VSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
